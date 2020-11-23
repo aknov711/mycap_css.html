@@ -94,7 +94,7 @@ img{
   width:200px;
   float:right;
   background-color:lightsalmon;
-  min-height: 1442.04px;
+  min-height: 1601.80px;
 }
 
 .sidebar ul{
