@@ -212,8 +212,7 @@ img{
               </p>
                 
                
-                    <img class="ksm" src=https://images.unsplash.com/photo-1566210471498-96578fb0ba5c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80 alt="kasmir">
-                
+
                
                     <h2>How is it different from others?</h2>
                     <p class="hu">
