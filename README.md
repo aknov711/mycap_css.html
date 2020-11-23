@@ -226,7 +226,7 @@ img{
 
                   <h2>What will you be getting here?</h2>
               <p class="hu">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque tempore totam libero nesciunt veritatis optio saepe amet voluptatem quidem labore possimus, aliquam esse dolorum numquam modi dignissimos asperiores perferendis. Minima.
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque tempore totam libero nesciunt veritatis optio saepe amet voluptatem quidem labore possimus, aliquam esse dolorum numquam modi dignissimos asperiores perferendis. Minima
               </p>
 
                   <img class="ksm" src="https://images.unsplash.com/photo-1523980628612-07e15ba44368?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80" alt="">
