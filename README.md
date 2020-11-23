@@ -169,6 +169,11 @@ img{
   transform: scale(1.18);
 }
 
+.lst
+{
+    font-size: smaller;
+}
+
 .hu{
    font-size: larger;
 }
@@ -259,7 +264,9 @@ img{
             <div class="footer">
                 aktravelscopyrights@2020
                 <br>
+               <p class="lst">
                 All Rights Reserved
+               </p> 
             </div>
         </div>
      
